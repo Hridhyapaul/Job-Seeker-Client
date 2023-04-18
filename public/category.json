@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Web developer",
+    "id": "1",
+    "number": 227,
+    "url": "https://cdn-icons-png.flaticon.com/512/3242/3242257.png"
+  },
+  {
+    "name": "Network engineer",
+    "id": "2",
+    "number": 156,
+    "url": "https://cdn-icons-png.flaticon.com/512/2593/2593154.png"
+  },
+  {
+    "name": "Software engineer",
+    "id": "3",
+    "number": 198,
+    "url": "https://cdn-icons-png.flaticon.com/512/5064/5064666.png"
+  },
+  {
+    "name": "Data scientist",
+    "id": "4",
+    "number": 105,
+    "url": "https://cdn-icons-png.flaticon.com/512/2316/2316128.png"
+  }
+]
+  
