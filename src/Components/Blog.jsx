@@ -2,8 +2,8 @@ import React from 'react';
 
 const Blog = () => {
     return (
-        <div className='my-container'>
-            <h3 className='text-3xl font-bold text-center my-10'>Frequently Asked Questions</h3>
+        <div className='mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl px-4 md:px-6 lg:px-8 pb-0'>
+            <h3 className='text-3xl font-bold text-center my-20'>Frequently Asked Questions</h3>
             <div>
                 <h2 className='font-bold'>Q.1: When should you use context API?</h2>
                 <p className='mt-3'><span>You should use the Context API in the following scenarios:</span>
