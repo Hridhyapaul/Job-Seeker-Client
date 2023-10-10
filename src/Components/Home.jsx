@@ -20,7 +20,7 @@ const Home = () => {
     <div>
       <Header></Header>
       <JobCategory></JobCategory>
-      <div className="my-container">
+      <div className="mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl px-4 md:px-6 lg:px-8 pb-0 my-16">
         <h1 className="text-2xl font-bold text-center">Featured Jobs</h1>
         <p className="text-[#757575] text-center mt-3">
           Explore thousands of job opportunities with all the information you
@@ -33,7 +33,7 @@ const Home = () => {
         </div>
         <div className="flex flex-col items-center justify-center">
           {!isButtonHidden && (
-            <button className="btn mt-5" onClick={handleShowMore}>
+            <button className="btn mt-8" onClick={handleShowMore}>
               Show More
             </button>
           )}
