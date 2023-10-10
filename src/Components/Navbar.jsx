@@ -10,7 +10,7 @@ const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   return (
     <div className=" bg-[#F9F9FF]">
-      <div className="mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl px-4 md:px-6 lg:px-8 pb-0 pt-5">
+      <div className="mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl px-4 md:px-6 lg:px-8 pb-0">
         <div className="flex justify-between items-center mx-container">
           <Link to="/">
             <span className="text-2xl font-bold">JobSeeker</span>

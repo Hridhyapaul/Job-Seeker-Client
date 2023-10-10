@@ -39,7 +39,7 @@ const AppliedJobs = () => {
 
     return (
         <div className='my-container'>
-            <h2 className='text-3xl font-bold text-center my-10'>Applied Jobs</h2>
+            <h2 className='text-3xl font-bold text-center my-20'>Applied Jobs</h2>
             <div className='flex justify-end gap-4 mb-4'>
                 <button className='btn' onClick={() => filterResult(true)}>Filter Remote Job</button>
                 <button className='btn' onClick={() => filterResult(false)}>Filter Onsite Job</button>

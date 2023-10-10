@@ -39,8 +39,6 @@ const Home = () => {
           )}
         </div>
       </div>
-      {/* <FeaturesJob></FeaturesJob> */}
-      <Footer></Footer>
     </div>
   );
 };
